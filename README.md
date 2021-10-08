@@ -6,7 +6,7 @@ Google Colab notebooks was used to create tables from this shoe review dataset, 
 
 # Results
 
-ASfter creating samples he data was filtered to find reviews with 20 or more votes and more than 50% rating, which resulted in 27,009 reviews. Then broken into the following two datasets, one for only Vine reviews and the other for non-Vine reviews.
+After creating samples the data was filtered to find reviews with 20 or more votes and more than 50% rating, which resulted in 27,009 reviews. Then broken into the following two datasets, one for only Vine reviews and the other for non-Vine reviews.
 
 ![final1](https://user-images.githubusercontent.com/82550431/136620927-392dd79b-ca94-4b64-b176-fe69c8128db9.PNG)
 
