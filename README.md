@@ -1,9 +1,13 @@
 # Amazon Vine Analysis
 
 # Project Purpose
-The purpose of this analysis is to gain insights on Amazon reviewers of the vine program and see if there is any positive bias towards them.
+The purpose of this analysis is to gain insights on Amazon reviewers of the vine program and see if there is any positive bias towards them. By usin
 
 # Amazon Vine reviewers and five star reviews
+
+Google Colab notebooks was used to create tables from this shoe review dataset.Then using pgAdmin and AWS, this data was stored in an SQL database. From pgAdmin, the vine table was exported, which includes data that shows review rating, helpful votes, total votes, whether the review was a Vine review, and if the purchase was verified. 
+
+# Results
 
 ![NEW1](https://user-images.githubusercontent.com/82550431/136315119-8c2014c6-2332-4b03-b557-c7603deb1c21.PNG)
 
